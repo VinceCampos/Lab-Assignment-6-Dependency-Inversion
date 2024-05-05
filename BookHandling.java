@@ -1,8 +1,8 @@
-public class ProcessBook {
+public class BookHandling {
     private Student student;
-    private BorrowBook book;
+    private BookBorrower book;
 
-    public ProcessBook(Student student, BorrowBook book) {
+    public BookHandling(Student student, BookBorrower book) {
         this.student = student;
         this.book = book;
     }

@@ -1,8 +1,8 @@
-public class ProcessJournal {
+public class JournalHandling {
     private Student student;
-    private BorrowJournal journal;
+    private JournalBorrower journal;
 
-    public ProcessJournal(Student student, BorrowJournal journal) {
+    public JournalHandling(Student student, JournalBorrower journal) {
         this.student = student;
         this.journal = journal;
     }
