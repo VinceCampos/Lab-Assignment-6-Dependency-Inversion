@@ -13,4 +13,5 @@ Create a repository in your GitHub account. Put your solution there. The readme 
 Make sure you have a TestProgram that will validate the proposed refactored codes.  
 
 UML CLASS DIAGRAM:
-![Lab-Assignment-6-Dependency-Inversion](https://github.com/VinceCampos/Lab-Assignment-6-Dependency-Inversion/assets/152839517/458c160d-fec8-461e-9511-0717155d9f45)
+
+![Lab-Assignment-6-Dependency-Inversion (1)](https://github.com/VinceCampos/Lab-Assignment-6-Dependency-Inversion/assets/152839517/0c85bc4c-8b01-47d2-9751-a8cb0df3a238)
